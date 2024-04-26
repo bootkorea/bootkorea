@@ -1,6 +1,6 @@
 ## bootkorea's Github
 </br><br/>
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bootkorea&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=bootkorea&fontSize=90)
 <br/><br/><br/>
 
 ## Summary
