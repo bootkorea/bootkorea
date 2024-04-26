@@ -1,4 +1,4 @@
-### bootkorea's Github🤔
+### bootkorea's Github <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
 </br><br/>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bootkorea&fontSize=90)
 <br/><br/><br/>
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLD-FAED7D?style=for-the-badge&logo=coveralls&logoColor=black"/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Activities
+### Activities
 - KT AIVLE School 5기 <sup>2024-02 * now
 - SPARCS Service Hackathon 2024 <sup>2024-02
 - 네이버 커넥트재단 부스트코스 <DATA SCIENCE PROJECTS> 코칭스터디 : 2024 Lead_Booster <sup>2024-01 * 2024-02
