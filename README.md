@@ -1,14 +1,14 @@
-### bootkorea's Github <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
+## bootkorea's Github
 </br><br/>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bootkorea&fontSize=90)
 <br/><br/><br/>
 
-### Summary
+## Summary
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bootkorea&hide=jupyter+notebook&layout=compact&theme=blue-green)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alphasobs)](https://solved.ac/alphasobs)
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Experience
+## Experience
 - 전북대학교 컴퓨터공학부 VCLab 학부연구생 <sup>2022-10 * 2023-09
 	<br> - Computer Vision, Deep Learning
 <br><br/>
@@ -23,11 +23,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bootkorea&repo=Take-A-Seat)](https://github.com/bootkorea/Take-A-Seat)
 
 
-### Skills
+## Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLD-FAED7D?style=for-the-badge&logo=coveralls&logoColor=black"/>
 
-### Activities
+## Activities
 - KT AIVLE School 5기 <sup>2024-02 * now
 - SPARCS Service Hackathon 2024 <sup>2024-02
 - 네이버 커넥트재단 부스트코스 <DATA SCIENCE PROJECTS> 코칭스터디 : 2024 Lead_Booster <sup>2024-01 * 2024-02
