@@ -12,15 +12,15 @@
 - 전북대학교 컴퓨터공학부 VCLab 학부연구생 <sup>2022-10 * 2023-09
 	<br> - Computer Vision, Deep Learning
 <br><br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bootkorea&repo=PNID_big_symbol)](https://github.com/bootkorea/PNID_big_symbol)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diskhkme&repo=PNID)](https://github.com/diskhkme/PNID)
+<br><br/>
 - 전북대학교 산학실전캡스톤 III <sup>2022-09 * 2023-12
 	<br> - LX(한국국토정보공사)
 	<br> - 고정밀 영상을 활용한 소하천 불법 점용 탐지 기법 개발 [![Github](src="https://github.com/tjdeo1102/JBNU_Capstone-2023")]
 	<br> - News [![News](src="https://www.jbyonhap.com/news/articleView.html?idxno=412660&page=3&total=368217")]
 </br><br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bootkorea&repo=JBNU_Capstone-2023)](https://github.com/tjdeo1102/JBNU_Capstone-2023)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bootkorea&repo=PNID_big_symbol)](https://github.com/bootkorea/PNID_big_symbol)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diskhkme&repo=PNID)](https://github.com/diskhkme/PNID)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bootkorea&repo=Take-A-Seat)](https://github.com/bootkorea/Take-A-Seat)
 
 
 ## Skills
