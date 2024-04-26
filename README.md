@@ -2,7 +2,7 @@
 </br><br/>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=bootkorea&fontSize=90)
 <br/>
- I am a Software Engineer, Computer Vision Researcher and Data Scientist.
+ I am a Software Engineer, Computer Vision Researcher and Data Scientist.<br/>
  Check out my portfolio : https://bit.ly/bootkorea
 <br/><br/>
 
