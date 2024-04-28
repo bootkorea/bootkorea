@@ -18,7 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bootkorea&repo=PNID_big_symbol)](https://github.com/bootkorea/PNID_big_symbol)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diskhkme&repo=PNID)](https://github.com/diskhkme/PNID)
 <br><br/>
-- 전북대학교 산학실전캡스톤 III <sup>2022-09 * 2023-12
+- 전북대학교 산학실전캡스톤 III <sup>2023-09 * 2023-12
 	<br> - LX(한국국토정보공사)
 	<br> - 고정밀 영상을 활용한 소하천 불법 점용 탐지 기법 개발
 </br><br/>
