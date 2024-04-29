@@ -41,6 +41,7 @@
 - 네이버 커넥트재단 부스트코스 <DATA SCIENCE PROJECTS> 코칭스터디 : 2024 Lead_Booster <sup>2024-01 * 2024-02
 - LG AI연구원 <LG Aimers 4기> LG Aimers/Data Intelligence 수료 <sup>2024-01 * 2024-02
 - 전북대학교 2023 SW 캡스톤디자인 경진대회 : 대상<sup>2023-09 * 2023-12
+- 제1회 오픈소스 SW 해커톤 캠프 : 최우수상<sup>2023-12
 - 전북대학교 컴퓨터공학부 VCLab(Prof. Hyung-ki Kim) 학부생 연구원 <sup>2022-09 * 2023-10
 - 전북대학교 컴퓨터공학부 알고리즘 동아리 'ALPS' 부회장 <sup>2021-12 * 2022-11
 
