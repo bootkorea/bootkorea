@@ -23,6 +23,10 @@
 	<br> - 고정밀 영상을 활용한 소하천 불법 점용 탐지 기법 개발
 </br><br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bootkorea&repo=JBNU_Capstone-2023)](https://github.com/tjdeo1102/JBNU_Capstone-2023)
+<br><br/>
+- 전북대학교 SW교육 플랫폼 'Litmus' 리뉴얼 개발 팀장 <sup>2024-04 * now
+	<br> - 전북대학교, 전북대 SW중심대학사업단
+	<br> - Project Manager, sLM Developer
 
 
 ## Skills
@@ -36,10 +40,10 @@
 <img src="https://img.shields.io/badge/SQLD-FAED7D?style=for-the-badge&logo=coveralls&logoColor=black"/>
 
 ## Activities
-- JBNU SW교육 플랫폼 <Litmus> 리뉴얼 개발 팀장 <sup>2024-04 * now
+- 전북대학교 SW교육 플랫폼 'Litmus' 리뉴얼 개발 팀장 <sup>2024-04 * now
 - KT AIVLE School 5기 <sup>2024-02 * now
 - SPARCS Service Hackathon 2024 <sup>2024-02
-- 네이버 커넥트재단 부스트코스 <DATA SCIENCE PROJECTS> 코칭스터디 : 2024 Lead_Booster <sup>2024-01 * 2024-02
+- 네이버 커넥트재단 부스트코스 <DATA_SCIENCE_PROJECTS> 코칭스터디 : 2024 Lead_Booster <sup>2024-01 * 2024-02
 - LG AI연구원 <LG Aimers 4기> LG Aimers/Data Intelligence 수료 <sup>2024-01 * 2024-02
 - 전북대학교 2023 SW 캡스톤디자인 경진대회 : 대상<sup>2023-09 * 2023-12
 - 제1회 오픈소스 SW 해커톤 캠프 : 최우수상<sup>2023-12
