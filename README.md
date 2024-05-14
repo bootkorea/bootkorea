@@ -21,12 +21,13 @@
 - 전북대학교 산학실전캡스톤 III <sup>2023-09 * 2023-12
 	<br> - LX(한국국토정보공사)
 	<br> - 고정밀 영상을 활용한 소하천 불법 점용 탐지 기법 개발
+	<br> - 2023 2학기 '전북대학교 SW 캡스톤디자인 대상' 수상
 </br><br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bootkorea&repo=JBNU_Capstone-2023)](https://github.com/tjdeo1102/JBNU_Capstone-2023)
 <br><br/>
 - 전북대학교 SW교육 플랫폼 'Litmus' 리뉴얼 개발 팀장 <sup>2024-04 * now
-	<br> - 전북대학교, 전북대 SW중심대학사업단
-	<br> - Project Manager, sLM Developer
+	<br> - 전북대학교, 전북대학교 SW중심대학사업단
+	<br> - Project Manager, sLM Developer, Backend Developer
 
 
 ## Skills
