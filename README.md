@@ -6,7 +6,7 @@
  Check out my portfolio : https://bit.ly/bootkorea
 <br/><br/>
 
-## Summary
+## Overview
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bootkorea&hide=jupyter+notebook&layout=compact&theme=blue-green)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alphasobs)](https://solved.ac/alphasobs)
 
