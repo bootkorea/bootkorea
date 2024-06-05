@@ -31,6 +31,7 @@
 - 전북대학교 SW교육 플랫폼 'Litmus' 리뉴얼 개발 팀장 <sup>2024-04 * now
 	<br> - 전북대학교, 전북대학교 SW중심대학사업단
 	<br> - Project Manager, sLM Developer, Backend Developer
+</br><br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alps-jbnu&repo=JBNU-Litmus)](https://github.com/alps-jbnu/JBNU-Litmus)
 
 
