@@ -26,11 +26,12 @@
 	<br> - 고정밀 영상을 활용한 소하천 불법 점용 탐지 기법 개발
 	<br> - '전북대학교 2023 SW 캡스톤디자인 경진대회' 대상 수상
 </br><br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bootkorea&repo=JBNU_Capstone-2023)](https://github.com/tjdeo1102/JBNU_Capstone-2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tjdeo1102&repo=JBNU_Capstone-2023)](https://github.com/tjdeo1102/JBNU_Capstone-2023)
 <br><br/>
 - 전북대학교 SW교육 플랫폼 'Litmus' 리뉴얼 개발 팀장 <sup>2024-04 * now
 	<br> - 전북대학교, 전북대학교 SW중심대학사업단
 	<br> - Project Manager, sLM Developer, Backend Developer
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alps-jbnu&repo=JBNU-Litmus)](https://github.com/alps-jbnu/JBNU-Litmus)
 
 
 ## Skills
