@@ -14,9 +14,8 @@
 
 ## Experience
 - 전북대학교 컴퓨터공학부 VCLab(Prof. Hyung-ki Kim) 학부생 연구원 <sup>2022-10 * 2023-09
- 	<br> - 현대엔지니어링
 	<br> - Computer Vision, Deep Learning
-	<br> - 디지털 P&ID 인식 성능 향상 과제 참여 <sup>2023-05 * 2023-09
+	<br> - 디지털 P&ID 인식 성능 향상 과제 참여(with 현대엔지니어링) <sup>2023-05 * 2023-09
 <br><br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bootkorea&repo=PNID_big_symbol)](https://github.com/bootkorea/PNID_big_symbol)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diskhkme&repo=PNID)](https://github.com/diskhkme/PNID)
