@@ -45,8 +45,8 @@
 <img src="https://img.shields.io/badge/SQLD-FAED7D?style=for-the-badge&logo=coveralls&logoColor=black"/>
 
 ## Activities
-- 전북대학교 SW교육 플랫폼 'Litmus' 리뉴얼 개발 팀장 <sup>2024-04 * now
-- KT AIVLE School 5기 <sup>2024-02 * now
+- 전북대학교 SW교육 플랫폼 'Litmus' 리뉴얼 개발 팀장 <sup>2024-04 * 2024-08
+- KT AIVLE School 5기 <sup>2024-02 * 2024-08
 - SPARCS Service Hackathon 2024 <sup>2024-02
 - 네이버 커넥트재단 부스트코스 <DATA_SCIENCE_PROJECTS> 코칭스터디 : 2024 Lead_Booster <sup>2024-01 * 2024-02
 - LG AI연구원 <LG Aimers 4기> LG Aimers/Data Intelligence 수료 <sup>2024-01 * 2024-02
