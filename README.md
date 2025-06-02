@@ -31,7 +31,7 @@
 	<br> - 전북대학교, 전북대학교 SW중심대학사업단
 	<br> - Project Manager, Backend Developer
 </br><br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alps-jbnu&repo=JBNU-Litmus)](https://github.com/alps-jbnu/JBNU-Litmus)
+<!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alps-jbnu&repo=JBNU-Litmus)](https://github.com/alps-jbnu/JBNU-Litmus) -->
 
 
 ## Skills
