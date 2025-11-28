@@ -75,7 +75,6 @@
 - 네이버 커넥트재단 부스트코스 <DATA_SCIENCE_PROJECTS> 코칭스터디 : 2024 Lead_Booster <sup>2024-01 * 2024-02</sup>
 - LG AI연구원 <LG Aimers 4기> LG Aimers/Data Intelligence 수료 <sup>2024-01 * 2024-02</sup>
 - 전북대학교 2023 SW 캡스톤디자인 경진대회 : 대상<sup>2023-09 * 2023-12</sup>
-- 2023 SW중심대학 공동 AI 경진대회 : 대상<sup>2024-01</sup>
 - 제1회 오픈소스 SW 해커톤 캠프 : 최우수상<sup>2023-12</sup>
 - 2024 전북대학교 AI 온라인 경진대회 : 금상(2위)<sup>2024-06</sup>
 - 2024 JBNU ICPC Contest : 3위(은상)<sup>2024-11</sup>
