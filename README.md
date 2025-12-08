@@ -33,7 +33,7 @@
 	<br> - with 전북대학교, 전북대학교 SW중심대학사업단
 	<br> - Product/Project Manager, Backend Developer, DevOps
 	<br> - 온프레미스 플랫폼의 퍼블릭 클라우드 기반 디지털 전환 성공, 서비스 런칭 및 운영 기여
-  	<br> ![Web Link](https://litmus.jbnu.ac.kr/)
+  	<br> [Web Link](https://litmus.jbnu.ac.kr/)
 
 </br><br/>
 - (산학협력 프로젝트) 고정밀 영상을 활용한 소하천 불법 점용 탐지 기법 개발 <sup>2023-09 * 2023-12
