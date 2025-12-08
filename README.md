@@ -71,6 +71,11 @@
 - 전북대학교 SW교육 플랫폼 'Litmus' 리뉴얼 개발 팀장 <sup>2024-04 * 2024-12</sup>
 - KT AIVLE School 5기 <sup>2024-02 * 2024-08</sup>
 	- *KT AIVLE School 5기 우수 교육생(Dean's List) 선정*
+- Softbank Hackathon 2025 결선 진출 <sup>2025-12</sup>
+- HackSeoul 2025 <sup>2025-11</sup>
+- 2025 K-Intelligence Hackathon 결선 진출 <sup>2025-09</sup>
+- Junction Asia 2025 <sup>2025-08</sup>
+- AngelHack HackSeoul 2024 결선 진출<sup>2024-08</sup>
 - SPARCS Service Hackathon 2024 <sup>2024-02</sup>
 - 네이버 커넥트재단 부스트코스 <DATA_SCIENCE_PROJECTS> 코칭스터디 : 2024 Lead_Booster <sup>2024-01 * 2024-02</sup>
 - LG AI연구원 <LG Aimers 4기> LG Aimers/Data Intelligence 수료 <sup>2024-01 * 2024-02</sup>
@@ -78,10 +83,10 @@
 - 제1회 오픈소스 SW 해커톤 캠프 : 최우수상<sup>2023-12</sup>
 - 2024 전북대학교 AI 온라인 경진대회 : 금상(2위)<sup>2024-06</sup>
 - 2024 JBNU ICPC Contest : 3위(은상)<sup>2024-11</sup>
-- 2023 JBNU ICPC Contest : 3위(은상)<sup>2023-12</sup>
-- 전북대학교 컴퓨터공학부 VCLab(Prof. Hyung-ki Kim) 학부생 연구원 <sup>2022-09 * 2023-10</sup>
+- 2023 JBNU ICPC Contest : 3위(은상)<sup>2023-11</sup>
+- 전북대학교 컴퓨터공학부 VCLab(Prof. Hyung-ki Kim) 학부생 연구원 <sup>2022-10 * 2023-09</sup>
 - 전북대학교 컴퓨터공학부 알고리즘 동아리 'ALPS' 부회장 (2022), Core Member (2023-2024) <sup>2021-12 * 2024-12</sup>
-- 전북대학교 컴퓨터인공지능학부 학생회 부학생회장, 기획부장
+- 전북대학교 컴퓨터인공지능학부 학생회 기획부장, 부학생회장
 
 ## 📫 Contacts
 alphasobs@gmail.com
